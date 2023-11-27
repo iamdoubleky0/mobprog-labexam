@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.blue, // Changing the background color to blue
+          backgroundColor: Colors.blue,
           title: Row(
             children: [
               Icon(Icons.home),
